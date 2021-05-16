@@ -225,7 +225,8 @@ footer{
     height:110px;
     font-size:12px;
     
-    background: rgba(255,255,255);
+    color:#fff;
+    background: rgb(15, 4, 31);
 }
 
 .main-content{
